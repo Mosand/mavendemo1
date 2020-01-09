@@ -12,6 +12,7 @@ public class AppTest
     /**
      * Rigorous Test :-)
      */
+	 //注释1
     @Test
     public void shouldAnswerWithTrue()
     {
